@@ -57,6 +57,8 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="src\agsjs\dijit\images\_Thumbs.db" />
+    <Content Include="src\agsjs\layers\layers_point_clustering.zip" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -65,6 +67,16 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="css\gmapsgallery.css" />
+    <Content Include="index.html" />
+    <Content Include="js\gmapsgallery.js" />
+    <Content Include="src\agsjs\dijit\css\TOC.css" />
+    <Content Include="src\agsjs\dijit\GlowingRipple.js" />
+    <Content Include="src\agsjs\dijit\images\googlehybrid.png" />
+    <Content Include="src\agsjs\dijit\images\googleroad.png" />
+    <Content Include="src\agsjs\dijit\images\googlesatellite.png" />
+    <Content Include="src\agsjs\dijit\TOC.js" />
+    <Content Include="src\agsjs\layers\GoogleMapsLayer.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
